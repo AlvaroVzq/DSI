@@ -1,0 +1,20 @@
+[
+  {
+  "id": 1,
+  "title": "Asturias",
+  "img":"asturias.jpg",
+  "body": "El Principado de Asturias es una comunidad autónoma uniprovincial de España. Situada en el norte de España ocupa un área total de 10 603,57 km², en el que habitan 1 044 481 personas."
+  },
+  {
+  "id": 2,
+  "title": "Sevilla",
+  "img":"sevilla.jpg",
+  "body": "Sevilla es un municipio y una ciudad de España, capital de la provincia homónima y de la comunidad autónoma de Andalucía."
+  },
+  {
+  "id": 3,
+  "title": "Valencia",
+  "img":"valencia.jpg",
+  "body": "Valencia es un municipio y una ciudad de España, capital de la provincia homónima y de la Comunidad Valenciana."
+  }
+]
